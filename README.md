@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jellyfish0029
-- 👀 I’m a freshman in a university.
+- 👀 I’m a university student.
 - 🌱 I’m currently learning C++ and cybersecurity.
-- 💞️ I have no coding experience in coding but I'm learing.
 - 😊 I'm glad to join in some projects that suit me.
 - 📫 How to reach me :
 My email:1120259883@qq.com
