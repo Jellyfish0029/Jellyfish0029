@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Jellyfish0029
-- 👀 I’m a university student.
 - 📫 How to reach me :
 My email:1120259883@qq.com
 <!---
